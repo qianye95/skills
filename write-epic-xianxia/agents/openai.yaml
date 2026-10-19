@@ -1,0 +1,4 @@
+interface:
+  display_name: "史诗仙侠写作"
+  short_description: "运用宏大尺度、递进揭示和战斗反馈创作原创长篇仙侠故事"
+  default_prompt: "Use $write-epic-xianxia to turn my original premise into an epic xianxia scene with controlled escalation and rhythm."

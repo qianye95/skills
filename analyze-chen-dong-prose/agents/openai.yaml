@@ -1,0 +1,4 @@
+interface:
+  display_name: "辰东文风分析"
+  short_description: "分析《遮天》的叙事节奏、语言特征、场面结构与文本相似风险"
+  default_prompt: "Use $analyze-chen-dong-prose to analyze this passage against the derived narrative traits of the supplied novel corpus."

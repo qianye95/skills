@@ -1,0 +1,37 @@
+{
+  "profile_name": "",
+  "intended_genres": [],
+  "narrative_lens": {
+    "point_of_view": "",
+    "distance": "",
+    "attention_priority": []
+  },
+  "rhythm": {
+    "sentence_length_distribution": {},
+    "paragraph_length_distribution": {},
+    "scene_pacing_rules": []
+  },
+  "scene_architecture": {
+    "opening": [],
+    "escalation": [],
+    "payoff": [],
+    "exit_hook": []
+  },
+  "language_rules": {
+    "preferred_patterns": [],
+    "conditional_patterns": [],
+    "avoid_patterns": []
+  },
+  "originality_guardrails": {
+    "forbidden_source_elements": [],
+    "similarity_check_required": true,
+    "minimum_exact_match_window": 24
+  },
+  "evaluation_weights": {
+    "story_clarity": 25,
+    "rhythm": 20,
+    "scene_escalation": 20,
+    "character_agency": 15,
+    "originality": 20
+  }
+}
